@@ -91,6 +91,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "python-packaging-cli",
+      "title": "Python Project Packaging and CLI Tools",
+      "description": "Package a Python application as an installable command-line tool with logging and reproducible setup.",
+      "path": "assignments/python-packaging-cli",
+      "dueDate": "2026-09-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Packaging Configuration",
+          "file": "pyproject.toml",
+          "type": "toml"
+        }
+      ]
     }
   ]
 }
