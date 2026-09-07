@@ -58,6 +58,39 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a REST API with FastAPI using typed models, CRUD endpoints, and request validation.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-10-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "learn-ai-10-days",
+      "title": "Learn AI in 10 Days",
+      "description": "Build and evaluate a small text classifier while learning core machine-learning concepts.",
+      "path": "assignments/learn-ai-10-days",
+      "dueDate": "2026-09-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Python Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
